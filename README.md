@@ -31,12 +31,4 @@ This repository includes a **curated set of Dynamic Programming (DP) problems** 
 
 ---
 
-## Why This List?
 
-- Covers all core DP patterns
-- Handpicked problems from beginner to advanced
-- Real LeetCode links to test and submit instantly
-
-Start from the top, go one-by-one, and you’ll become confident in DP faster than ever.
-
----
